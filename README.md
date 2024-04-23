@@ -1,2 +1,2 @@
 # ScriptCodeInnovations
-For Blog Code Updates in scoinn.com
+For Blog Code Updates at scoinn.com
